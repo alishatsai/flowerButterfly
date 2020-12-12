@@ -13,6 +13,7 @@
 		6D2039C72584AB3000102FDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D2039C52584AB3000102FDB /* Main.storyboard */; };
 		6D2039C92584AB3100102FDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D2039C82584AB3100102FDB /* Assets.xcassets */; };
 		6D2039CC2584AB3100102FDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D2039CA2584AB3100102FDB /* LaunchScreen.storyboard */; };
+		6D2039D52584B5E300102FDB /* SnowParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6D2039D42584B5E300102FDB /* SnowParticle.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6D2039C82584AB3100102FDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D2039CB2584AB3100102FDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D2039CD2584AB3100102FDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6D2039D42584B5E300102FDB /* SnowParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = SnowParticle.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				6D2039C12584AB3000102FDB /* SceneDelegate.swift */,
 				6D2039C32584AB3000102FDB /* ViewController.swift */,
 				6D2039C52584AB3000102FDB /* Main.storyboard */,
+				6D2039D42584B5E300102FDB /* SnowParticle.sks */,
 				6D2039C82584AB3100102FDB /* Assets.xcassets */,
 				6D2039CA2584AB3100102FDB /* LaunchScreen.storyboard */,
 				6D2039CD2584AB3100102FDB /* Info.plist */,
@@ -126,6 +129,7 @@
 			files = (
 				6D2039CC2584AB3100102FDB /* LaunchScreen.storyboard in Resources */,
 				6D2039C92584AB3100102FDB /* Assets.xcassets in Resources */,
+				6D2039D52584B5E300102FDB /* SnowParticle.sks in Resources */,
 				6D2039C72584AB3000102FDB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
